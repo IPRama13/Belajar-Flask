@@ -73,7 +73,7 @@ def result(data):
     elif(data == 1):
         return "Vincky"
     elif(data == 2):
-        return "Poke"
+        return "Mirah"
     elif(data == 3):
         return "Sinta"
     else:
