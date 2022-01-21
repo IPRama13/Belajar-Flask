@@ -1,2 +1,2 @@
-web: gunicorn model:Proses app:app
+web: gunicorn app:app
 worker: python model.py
